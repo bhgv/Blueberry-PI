@@ -13,6 +13,15 @@ https://github.com/bhgv/linux/releases/tag/1.0a
 ![](Img/bbpi-infr-fb-touch.jpg)
 
 
+exp2_Blueberry Pi 7.1.2.licheepi-zero.esp32.no-lan.gsm-a9g.no-50p
+=================================================================
+most simplest to assembly choise
+* cheap Lichee Pi zero module as CPU and CPU-power module. also used its TFT connector
+* ESP32-WROOM as wifi/bluetooth module
+* A9/A9G as GSM/GPS module
+* connector for cheap popular gt911 capacitive touchscreens (workable driver for gt911 is included to [this Linux](https://github.com/bhgv/linux))
+* includes Li-Ion/polimer battery charging/powering circuits
+
 Blueberry Pi 7.1.2.esp32.no-lan
 ===============================
 (not finished yet)
