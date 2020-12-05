@@ -1,3 +1,10 @@
+to use with spi-nand flash build & flash this Linux tree:
+
+* OpenWRT: https://github.com/bhgv/openwrt
+
+
+***
+
 main build board now is `Blueberry Pi 7.1.2.esp32.no-lan.gsm-a9g`. because `a9g` gsm module is much better then `sim800c`. because of open source SDK and support of GPS.
 
 but still work-in-progress. not finished.
